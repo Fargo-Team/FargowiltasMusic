@@ -1,0 +1,7 @@
+displayName = Fargo's Music Mod
+author = Fargo & Terry
+version = 0.1.5.1
+hideCode = true
+hideResources = true
+modReferences = FargowiltasSouls@1.4
+side = Client
