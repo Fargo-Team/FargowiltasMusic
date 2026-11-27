@@ -29,6 +29,11 @@ Items: {
 		Tooltip: Проигрывает «Shifting Sands» от zentaque & Azathoth
 	}
 
+	SquirrelWorkshopMusicBox: {
+		// DisplayName: Music Box (Squirrel Workshop)
+		// Tooltip: ScubaDrivur 'TBA'
+	}
+
 	EridanusMusicBox: {
 		DisplayName: Музыкальная шкатулка (Эридан)
 		Tooltip: Проигрывает «Platinum Star» от Yuri O

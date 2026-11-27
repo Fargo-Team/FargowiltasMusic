@@ -29,6 +29,11 @@ Items: {
 		Tooltip: zentaque & Azathoth - 《Shifting Sands》
 	}
 
+	SquirrelWorkshopMusicBox: {
+		// DisplayName: Music Box (Squirrel Workshop)
+		// Tooltip: ScubaDrivur 'TBA'
+	}
+
 	EridanusMusicBox: {
 		DisplayName: 音乐盒（厄里达诺斯，宇宙英灵）
 		Tooltip: Yuri O - 《Platinum Star》

@@ -29,7 +29,7 @@ Items: {
 		Tooltip: ScubaDrivur 'Spirited Sands'
 	}
 
-	SquirrelWorkshopMusicBox:{
+	SquirrelWorkshopMusicBox: {
 		DisplayName: Music Box (Squirrel Workshop)
 		Tooltip: ScubaDrivur 'TBA'
 	}
