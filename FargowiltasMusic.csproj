@@ -1,9 +1,6 @@
-<Project Sdk="Microsoft.NET.Sdk">
-  <Import Project="..\tModLoader.targets" />
-  <PropertyGroup>
-    <AssemblyName>FargowiltasMusic</AssemblyName>
-    <LangVersion>latest</LangVersion>
-  </PropertyGroup>
-  <ItemGroup>
-  </ItemGroup>
+<Project Sdk="Tomat.Terraria.ModLoader.Sdk/2.1.2">
+	<PropertyGroup>
+		<AssemblyName>FargowiltasMusic</AssemblyName>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
 </Project>
