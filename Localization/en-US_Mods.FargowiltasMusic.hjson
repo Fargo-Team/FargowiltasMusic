@@ -11,7 +11,7 @@ Items: {
 
 	TrojanMusicBox: {
 		DisplayName: Music Box (Trojan Squirrel)
-		Tooltip: ProduceVGM & ScubaDrivur 'Nuts And Bolts (Reinvented)'
+		Tooltip: ScubaDrivur & ProduceVGM 'Nuts And Bolts (Reinvented)'
 	}
 
 	AbominationnP1MusicBox: {
