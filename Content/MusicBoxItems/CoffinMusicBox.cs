@@ -8,7 +8,7 @@ namespace FargowiltasMusic.Content.MusicBoxItems
     {
         public override void SetStaticDefaults()
         {
-            MusicLoader.AddMusicBox(Mod, MusicLoader.GetMusicSlot(Mod, "Assets/Music/ShiftingSands"), ModContent.ItemType<CoffinMusicBox>(), ModContent.TileType<CoffinMusicBoxSheet>());
+            MusicLoader.AddMusicBox(Mod, MusicLoader.GetMusicSlot(Mod, "Assets/Music/CursedCoffin"), ModContent.ItemType<CoffinMusicBox>(), ModContent.TileType<CoffinMusicBoxSheet>());
 
             base.SetStaticDefaults();
         }
