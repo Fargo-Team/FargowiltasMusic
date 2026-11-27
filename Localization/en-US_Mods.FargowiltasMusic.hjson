@@ -11,7 +11,7 @@ Items: {
 
 	TrojanMusicBox: {
 		DisplayName: Music Box (Trojan Squirrel)
-		Tooltip: ProduceVGM 'Nuts And Bolts'
+		Tooltip: ProduceVGM & ScubaDrivur 'Nuts And Bolts (Reinvented)'
 	}
 
 	AbominationnP1MusicBox: {
@@ -26,7 +26,12 @@ Items: {
 
 	CoffinMusicBox: {
 		DisplayName: Music Box (Cursed Coffin)
-		Tooltip: zentaque & Azathoth 'Shifting Sands'
+		Tooltip: ScubaDrivur 'Spirited Sands'
+	}
+
+	SquirrelWorkshopMusicBox:{
+		DisplayName: Music Box (Squirrel Workshop)
+		Tooltip: ScubaDrivur 'TBA'
 	}
 
 	EridanusMusicBox: {
